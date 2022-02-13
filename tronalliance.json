@@ -455,6 +455,14 @@
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TWjUXVYQtcsDM678DpnBkRJ2FnQ8g9H4U2.jpeg?t=1638777856425"
+        },
+        {
+            "symbol": "DTM",
+            "name": "Digital Toman",
+            "address": "TJ4T5uqq39rJrH3UFtPqxprxkLb6uknZWM",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TJ4T5uqq39rJrH3UFtPqxprxkLb6uknZWM.png"
         }
     ]
 }
